@@ -1,3 +1,1 @@
-newline
-newline 1
-newline 2
+GeekBrains Git course https://gb.ru/courses/1117
